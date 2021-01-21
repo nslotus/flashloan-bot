@@ -1,4 +1,5 @@
 # flashloan-bot
-take  from pedrobergamini
+taken from pedrobergamini
 /
-flashloaner-contract to play with, totally owned and written by him
+flashloaner-contract to play with and study
+totally owned and written by him
